@@ -1,5 +1,6 @@
 class hello {
-    publlic
-    static void main(String[] args)
-    System.out.pritntln("shekh khwaja ");
+    public static void main(String[] args) {
+        System.out.println("hello this git ");
+        System.out.println("raja sonker");
+    }
 }
